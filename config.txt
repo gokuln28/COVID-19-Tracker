@@ -1,0 +1,13 @@
+[csv_file]
+filename = covidcases.csv
+
+[website]
+url = https://www.mohfw.gov.in/
+
+[htmltagclasses]
+divclass = data-table table-responsive
+tableclass = table table-striped
+
+[loggingconfig]
+filename = logfile.txt
+filemode = w
