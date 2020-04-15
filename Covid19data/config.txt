@@ -11,3 +11,7 @@ tableclass = table table-striped
 [loggingconfig]
 filename = logfile.txt
 filemode = w
+
+[datalog]
+filename = datalog.txt
+filemode = w
